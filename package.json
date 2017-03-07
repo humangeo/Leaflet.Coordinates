@@ -26,6 +26,7 @@
         "map",
         "sdi"
     ],
+    "main": "dist/Leaflet.Coordinates-0.1.5.src.js",
     "author": "Felix Bache",
     "licenses": [{
         "type": "CC BY 3",
